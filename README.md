@@ -12,8 +12,8 @@ Welcome to **Ethos**, an amazing API crafted with the help of the GoatBypassers.
 
 Upgrade to our premium plan to unlock additional features and benefits. This one-time purchase is available for:
 
-- $3
-- 240 Robux
+- $5
+- 300 Robux
 
 ## Getting Started
 
