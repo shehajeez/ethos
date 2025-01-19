@@ -10,4 +10,4 @@ For any inquiries or support, please reach out to us at:
 
 ---
 
-Thank you for choosing Ethos! We hope you enjoy using our API as much as we enjoyed building it. Happy coding!
+Thank you for choosing Ethos! We hope you enjoy using our project as much as we enjoyed building it. Happy coding!
